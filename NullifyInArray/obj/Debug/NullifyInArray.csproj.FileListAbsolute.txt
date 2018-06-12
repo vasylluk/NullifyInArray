@@ -1,0 +1,10 @@
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.Form1.resources
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.Properties.Resources.resources
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.csproj.GenerateResource.Cache
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\bin\Debug\NullifyInArray.exe.config
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\bin\Debug\NullifyInArray.exe
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\bin\Debug\NullifyInArray.pdb
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.exe
+C:\Users\vasyl\source\repos\NullifyInArray\NullifyInArray\obj\Debug\NullifyInArray.pdb
